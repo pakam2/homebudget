@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+dont_send_to_git.py
 # Distribution / packaging
 .Python
 build/
