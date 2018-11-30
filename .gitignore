@@ -8,6 +8,7 @@ __pycache__/
 dont_send_to_git.py
 # Distribution / packaging
 .Python
+.vscode
 build/
 develop-eggs/
 dist/
